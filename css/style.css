@@ -1,0 +1,88 @@
+body {
+
+}
+
+/*************header***********/
+header .navbar {
+	border-radius: 0 !important;
+	background-color: white;
+	height: 120px;
+	margin-bottom: 0 !important;
+	border-bottom-color: transparent;
+}
+
+header .navbar-collapse .nav {
+	margin-top: 35px !important;
+}
+
+header .navbar-default .navbar-nav > li > a {
+	color: #2070f4 !important;
+}
+
+.big-phone {
+	font-size: 20px !important;
+	color: #2070f4 !important;
+	font-weight: bold;
+}
+
+/*************end header***********/
+
+/***************main menu*************/
+.main-menu .navbar {
+	border-radius: 0 !important;
+	background-color: #195ac4;
+	border: none!important;
+}
+
+.main-menu .navbar-default .navbar-nav > li > a {
+	color: white !important;
+	transition: all .5s;
+}
+.main-menu .navbar-default .navbar-nav > li > a:hover{
+	background-color: #134392 !important;
+}
+.active-main {
+	background-color: #134392 !important;
+}
+
+/***************end main menu*************/
+
+/*************main body**************/
+.main-body .well{
+	border-top-color:transparent;
+	border-radius: 0;
+	margin-top: -20px;
+	background-color: white;
+}
+.main-body .well h1{
+	margin-bottom: 50px;
+}
+.main-body .well p{
+	line-height: 1.63;
+	color: black;
+}
+.main-body .well img{
+	width: 100%;
+	margin-bottom: 20px;
+}
+/*************end main body**************/
+
+/******************footer**************/
+footer .container-fluid .row{
+	border-left-color: #e1e1e1!important;
+	border-right-color: #e1e1e1!important;
+}
+.footer-padding{
+	padding: 10px 0 30px 0;
+}
+
+/******************end footer**************/
+
+/****************flats******************/
+.is-margin-bottom{
+	margin-bottom: 50px!important;
+}
+.hr{
+
+}
+/**********end flats************/

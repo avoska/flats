@@ -86,3 +86,15 @@ footer .container-fluid .row{
 
 }
 /**********end flats************/
+/**************sale****************/
+.numbers{
+	font-size: 40px;
+}
+.is-color-red{
+	color: red;
+}
+.sale{
+	color: red;
+	font-size: 20px;
+}
+/************end sale********/

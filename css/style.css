@@ -18,7 +18,11 @@ header .navbar-collapse .nav {
 header .navbar-default .navbar-nav > li > a {
 	color: #2070f4 !important;
 }
-
+.navbar-brand{
+	max-width: 200px;
+	color: #2070f4!important;
+	text-align: center;
+}
 .big-phone {
 	font-size: 20px !important;
 	color: #2070f4 !important;

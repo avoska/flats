@@ -98,14 +98,17 @@ footer .container-fluid .row{
 	color: red;
 	font-size: 20px;
 }
-.money-usd{
-	height: 17px!important;
-	width: 50px!important;
-	background: url("/img/money-usd.png")!important;
-	background-size: cover;
-	transition: all 0.5s;
+.changer a{
+	text-decoration: none!important;
 }
-.money-usd:hover{
-	display: none;
+.changer a:hover .a {
+  display: none;
+
+}
+.changer a .b {
+  display: none;
+}
+.changer a:hover .b {
+  display: inline;
 }
 /************end sale********/
